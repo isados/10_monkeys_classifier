@@ -1,9 +1,9 @@
 # 10 Monkey Species Classifier using X Lines of Code
 
-Architecture: Resnet34
-Deep Learning Framework : FastAI
-Dataset: https://www.kaggle.com/slothkong/10-monkey-species
-Authors: @isados (myself) & @khanmustuffa11
+- Architecture: Resnet34
+- Deep Learning Framework : FastAI
+- Dataset: https://www.kaggle.com/slothkong/10-monkey-species
+- Authors: @isados (myself) & @khanmustuffa11
 
 
 ## Requirements
