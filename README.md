@@ -3,7 +3,7 @@
 - Architecture: Resnet34
 - Deep Learning Framework : FastAI
 - Dataset: https://www.kaggle.com/slothkong/10-monkey-species
-- Authors: @isados (myself) & @khanmustuffa11
+- Authors: Isa AlDoseri & GH Mustuffa Khan
 
 
 ## Requirements
