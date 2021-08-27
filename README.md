@@ -14,5 +14,5 @@ Run
 pip install fastai=2.5.2
 ```
 
-For results and further discussion, read the notebook.
+For results and further discussion, read the notebook. Though I recommend reading it on [Google Colab](https://colab.research.google.com/drive/1iY_SoK2oFrgx6k_kKHv-HK331Oc4IiuT?usp=sharing) for the cleanest look.
 
